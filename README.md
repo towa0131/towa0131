@@ -5,6 +5,17 @@ I'm a student at National Institute of Technology, Kumamoto College.
 [![github stats](https://raw.githubusercontent.com/towa0131/github-stats/master/generated/overview.svg)](https://github.com/towa0131/github-stats)
 [![langs used](https://raw.githubusercontent.com/towa0131/github-stats/master/generated/languages.svg)](https://github.com/towa0131/github-stats)
 
+### Skills
+#### Languages
+- C / C++
+- C#
+- PHP
+
+#### Others
+- Procon31 (Dart, Python, PHP)
+- PocketMine-MP Plugin (PHP)
+- Deresute (PHP)
+
 ### Links
 - Web : https://towa0131.com
 - Qiita : https://qiita.com/towa0131
