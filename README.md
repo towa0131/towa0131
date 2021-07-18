@@ -6,7 +6,7 @@ I'm a student at National Institute of Technology, Kumamoto College.
 [![langs used](https://raw.githubusercontent.com/towa0131/github-stats/master/generated/languages.svg)](https://github.com/towa0131/github-stats)
 
 [![Spotify](https://img.shields.io/badge/Spotify-towa0131-green?logo=spotify)](https://open.spotify.com/user/towa0131)
-[![Last.fm](https://badges.lastfm.workers.dev/last-played?user=towa0131)](https://www.last.fm/user/towa0131)
+[![Last.fm](https://badges.lastfm.workers.dev/last-played?user=towa0131&cacheSeconds=10)](https://www.last.fm/user/towa0131)
 [![Steam](https://img.shields.io/badge/steam-towa0131-blue?&logo=steam&logoColor=white)](https://steamcommunity.com/id/towa0131/)
 
 ### Skills
