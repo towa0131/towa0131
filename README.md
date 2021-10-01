@@ -1,6 +1,8 @@
 ## Hi there!
 I'm a student at National Institute of Technology, Kumamoto College.
 
+[![towa0131](https://count.getloli.com/get/@:towa0131)](https://github.com/journey-ad/Moe-counter)
+
 ### Stats
 [![github stats](https://raw.githubusercontent.com/towa0131/github-stats/master/generated/overview.svg)](https://github.com/towa0131/github-stats)
 [![langs used](https://raw.githubusercontent.com/towa0131/github-stats/master/generated/languages.svg)](https://github.com/towa0131/github-stats)
