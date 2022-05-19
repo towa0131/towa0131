@@ -15,10 +15,13 @@ I'm a student at National Institute of Technology, Kumamoto College.
 #### Languages
 - C / C++
 - C#
+- Python
 - PHP
+- and more...
 
 #### Others
 - Procon31 (Dart, Python, PHP)
+- PCK2021 (C++)
 - PocketMine-MP Plugin (PHP)
 - Deresute (PHP)
 
