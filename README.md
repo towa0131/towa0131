@@ -26,7 +26,7 @@ I'm a student at National Institute of Technology, Kumamoto College.
 - Deresute (PHP)
 
 ### Links
-- Web : https://www.towa0131.com
+- Web : https://www.towa0131.jp
 - Qiita : https://qiita.com/towa0131
 - Packagist : https://packagist.org/packages/towa0131/
 - NuGet : https://www.nuget.org/profiles/towa0131
