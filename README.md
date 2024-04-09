@@ -1,5 +1,5 @@
 ## Hi there!
-I'm a student at National Institute of Technology, Kumamoto College.
+I'm a student at University of Tsukuba.
 
 <!--
 [![towa0131](https://count.getloli.com/get/@:towa0131)](https://github.com/journey-ad/Moe-counter)
