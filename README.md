@@ -18,9 +18,10 @@ I'm a student at University of Tsukuba.
 - Qiita : https://qiita.com/towa0131
 - Packagist : https://packagist.org/packages/towa0131/
 - NuGet : https://www.nuget.org/profiles/towa0131
-- AtCoder : https://atcoder.jp/users/towa0131
 - pixiv : https://www.pixiv.net/users/27332035
 - SoundCloud : https://soundcloud.com/liselsia
+- B站 : https://b23.tv/utxaeBs
+
 
 <!--
 **towa0131/towa0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
